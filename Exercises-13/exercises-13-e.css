@@ -1,0 +1,65 @@
+div{
+    border: 1px solid black;
+    padding: 2px;
+    margin: 2px;
+}
+#div-parent-13e{
+    width: 500px;
+    box-shadow: 0px 0px 10px 0px ;
+    
+}
+#div-parent-13e div{
+    padding: 3px;
+}
+.div-p-and-clock{
+    flex: 1;
+
+}
+.div-child-13-e-1,
+.div-child-13-e-2,
+.div-child-13-e-3{
+    min-width:450px;
+    justify-content: space-between;
+   
+}
+.div-child-13-e{
+     display: flex;
+     justify-content: space-between;
+}
+.div-clock-13-e{
+    display: flex;
+    justify-content: space-between;
+}
+.div-img{
+  width: 80px;
+}
+
+.img-13-e1{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+#div-parent-13e p{
+    font-family: arial;
+   
+}
+
+.p-13e-5,
+.p-13e-3,
+.p-13e-1{
+  color: slategray;
+  margin: 0px;
+}
+.p-13e-2,
+.p-13e-4{
+    font-size: 20px;
+    color: black;
+    margin: 0px;
+}
+.p-13e-4,
+.p-13e-5{
+    margin-left: 6px;
+}

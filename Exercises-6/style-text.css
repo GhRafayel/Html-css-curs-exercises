@@ -1,0 +1,161 @@
+
+body{
+    padding: 200px;
+    font-family: Arial;
+}
+hr{
+    margin-bottom: 50px;
+}
+.paragraf-1{
+   font-size: 25px;
+   font-family: Tahoma;
+   font-weight: bold;
+}
+.paragraf-2{
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.paragraf-3{
+    margin-top: 0px;
+    color: #797777;
+    font-weight: bold;
+    font-size: 20px;
+}
+.paragraf-4{
+    width: 320px;
+    font-size: 22px;
+}
+.button-1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    background-color: green;
+    color:white;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.paragraf-5{
+    font-size: 30px;
+    font-weight: bold;
+    width: 400px;
+
+}
+.span-1{
+    color:red;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+}
+.paragraf-6{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.paragraf-7{
+    font-size:20px ;
+    text-align: center;
+    width: 400px;
+}
+.a-1{
+    color:blue;
+    margin-left: 150px;
+    font-size: 22px;
+    text-decoration-line: none;
+}
+.paragraf-8{
+    width: 500px;
+    text-align: center;
+    color:rgba(226, 127, 20, 0.957);
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 200px;
+
+}
+.paragraf-9{
+    width: 500px;
+    text-align: center;
+    margin-top: 0px;
+    font-size:30px ;
+    font-weight:bold ;
+    margin-bottom: 8px;
+}
+.paragraf-10{
+    width: 600px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size:50px ;
+    font-weight:bold ;
+}
+.paragraf-11{
+    width: 500px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.button-2{
+    margin-left: 220px;
+    background-color:rgb(27, 96, 245);
+    border: none;
+    color:white;
+    width:100px;
+    height:50px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin-bottom: 200px;
+}
+.paragraf-12{
+    margin-top: 0px;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+.span-2{
+    font-size: 25px;
+    color: slategray;
+}
+.paragraf-13{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size:28px ;
+    color: green;
+}
+
+.paragraf-14{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size:25px ;
+    color:slategray;
+}
+.span-3{
+    color:red;
+}
+.paragraf-15{
+    margin-top: 200px;
+    margin-bottom: 8px;
+    font-size:35px ;
+    color: slategray;
+}
+strong{
+    font-weight: bold;
+    color:black;
+}
+.paragraf-16{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size:25px ;
+    font-family: Arial;
+}
+.paragraf-17{
+    font-size:25px ;
+    font-family: Arial;
+}
+.a2{
+    color:blue ;
+}

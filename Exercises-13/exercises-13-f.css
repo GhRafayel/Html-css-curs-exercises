@@ -1,0 +1,77 @@
+
+  #div-paren-13-f {
+  display: flex;
+  min-width:600px;
+  max-width:600px;
+  padding: 10px;
+  box-shadow: 0px 0px 6px 0px;
+}
+#div-paren-13-f p{
+    font-family: Arial;
+}
+
+.div-img-13f{
+   width: 100px; 
+}
+.div-chilf-f2{
+flex: 1;
+}
+.img-13-f{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    object-fit: cover;
+    margin:10px  ; 
+}
+strong{
+    font-size: 23px;
+    color:black;
+}
+.p-13-f-1{
+    color: rgb(68, 76, 85);
+    font-size: 25px;
+    margin: 10px 0px 0px 0px;
+}
+.p-13-f-2{
+    margin: 8px 0px 0px 0px;
+    font-size: 25px;
+    line-height: 30px;
+}
+.div-p-13-f2{
+    display: flex;
+    height: 130px;
+    margin-top: 20px;
+    
+}
+.div-p-13-f2-1{
+    width: 150px;
+    background-color: rgb(199, 203, 204);
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 0px 0px 1px 0px;
+    border: none;
+}
+.div-p-13-f2-2{
+    flex: 1;
+    border-radius: 0px 20px 20px 0px;
+    border: 0.1px solid black;
+    border:none;
+    box-shadow: 0px 0px 0.9px 0px;
+}
+.p-13-f-3{
+    color: rgb(116, 115, 115);
+    margin: 20px 0px 0px 0px;
+    font-size: 20px ;
+}
+.p-13-f-4{
+    font-size: 22px;
+    margin: 5px 0px 0px 0px;
+}
+.p-13-f-5{
+    font-size: 22px;
+    margin: 5px 0px 0px 0px;
+    font-weight: lighter;
+}
+
+.div-p-13-f2-2 p{
+    margin-left:10px ;
+}

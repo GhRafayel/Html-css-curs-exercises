@@ -1,0 +1,25 @@
+#div-13-a{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 10px 0px ;
+}
+
+.child-13-a{
+    width:100px ;
+    background-color: lightpink;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child-13-a-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    background-color: lightblue;
+    text-align: center;
+    height: 50px;
+}

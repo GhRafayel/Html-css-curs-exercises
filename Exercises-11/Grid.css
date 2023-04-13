@@ -1,0 +1,78 @@
+body{
+   padding: 200px 50px 200px 50px ;
+}
+hr{
+    margin-bottom: 150px;
+}
+
+
+/*<!--11.daexercises-->*/
+
+#div-11a{
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+/*<!--11.b exercises-->*/
+#div-11b{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+/*<!--11.c exercises-->*/
+#div-11c{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+/*<!--11.d exercises-->*/
+/*box-shadow: 0px 0px 10px 0px black;*/
+
+
+#div-11-d{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    column-gap:20px;
+    row-gap: 40px; 
+    align-items: center;
+}
+.div-child-Oliver,.div-child-Mimi,.div-child-Rex{
+    display:grid;
+    grid-template-columns: 80px 1fr ;
+}
+.img-Oliver,.img-Mimi,.img-Rex{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: top;
+}
+.img-Mimi{
+    object-position: right;
+}
+
+.img-Oliver-2,.img-Mimi-2,.img-Rex-2{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 12px 0px 0px 10px;
+}
+.Rex,.Mimi,.Oliver{
+   padding: 5px;
+}
+.h2-Mimi,.h2-Rex,.h2-Oliver{
+    margin:15px 0px 5px 10px;
+    font-family: Arial;
+}
+.p-Mimi,.p-Oliver,.p-Rex{
+    color: rgb(86, 95, 104);
+    font-size: 25px;
+}
+.button-Mimi,.button-Rex,.button-Oliver{
+    margin: 5px 0px 10px 10px; 
+    background-color:rgb(43, 115, 224);
+    padding: 15px 30px 15px 30px ;
+    font-size: 25px;
+    border: none;
+    border-radius: 8px;
+    color: whitesmoke;
+}

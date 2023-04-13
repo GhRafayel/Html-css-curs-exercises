@@ -1,0 +1,197 @@
+ hr{
+    margin-bottom: 100px;
+    height: 2px;
+    background-color: black;
+
+ }
+ /*<!--12a-->*/
+#div-12-a{
+    display: flex;
+    flex-direction: row;
+}
+.child-12-a{
+    background-color: rgb(148, 175, 238);
+    width: 200px;
+}
+.child-12-a-2{
+    background-color: pink;
+    width:  75px;
+}
+
+/*<!--12b-->*/
+#div-12-b{
+    display: flex;
+    flex-direction: row;
+}
+.child-12-b{
+    background-color: rgb(148, 175, 238);
+    width: 50px;
+}
+.child-12-b-2{
+    background-color: pink;
+   flex: 1;
+}
+.child-12-b-3{
+    background-color: rgb(148, 175, 238);
+    width:  75px;
+}
+/*<!--12c-->*/
+#div-12-c{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child-12-c,
+.child-12-c-2,
+.child-12-c-3,
+.child-12-c-4{
+    background-color: pink;
+    width: 60px;
+}
+/*<!--12d-->*/
+#div-12-d{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    border: 1px solid black;
+    justify-content: space-between;
+    align-items:center
+}
+#div-12-d > div{
+    width: 80px;
+    height:50px;
+    background-color:lightpink
+}
+/*<!--12e-->*/
+#div-12-e{
+    display: flex;
+    flex-direction: column ;
+    border: 0.1px solid black;
+    border-radius:8px;
+}
+.child-12-e,
+.child-12-e-2,
+.child-12-e-3{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px;
+}
+.child-12-e > div,
+.child-12-e-2 > div,
+.child-12-e-3 > div{
+    background-color:rgb(70, 116, 241) ;
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+    padding: 5px 15px 5px 15px; 
+    border-radius: 28px;
+}
+.child-12-e > p,
+.child-12-e-2 > p,
+.child-12-e-3 > p{
+    padding: 5px;
+    margin: 0px;
+    font-family: Arial;
+}
+/*<!--12g-->*/
+#div-12-g{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 10px 0px ;
+}
+.child-12-g,
+.child-12-g-2,
+.child-12-g-3{
+    display: grid;
+    grid-template-columns: 80px 1fr 100px;
+    margin: 10px 0px 6px 10px;
+}
+.child-12-g img,
+.child-12-g-2 img,
+.child-12-g-3 img{
+   width: 50px;
+   height: 50px;
+   object-fit: cover;
+   object-position: top;
+   border-radius: 50px;
+}
+.child-12-g h2,
+.child-12-g-2 h2,
+.child-12-g-3 h2{
+   margin: 5px 0px 0px 0px;
+   font-family: Arial;
+   font-size: 22px;
+ }
+ .child-12-g p ,
+ .child-12-g-2 p,
+ .child-12-g-3 p{
+    margin: 05px 0px ;
+    font-family: Arial;
+    color: slategray;
+    line-height: 20px;
+  }
+  .child-12-g button,
+  .child-12-g-2 button,
+  .child-12-g-3 button{
+    background-color:rgb(91, 163, 236);
+    border-radius:4px;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+  }
+ .div-button-12-g,
+ .div-button-12-g-3,
+ .div-button-12-g-2{
+    align-self: center;
+  }
+  .div-img-12-g,
+  .div-img-12-g-3,
+  .div-img-12-g-2{
+    align-self: center;
+    margin-left: 10px;
+  }
+/*<!--12f-->*/
+#div-12-f{
+    display: grid;
+    grid-template-columns: 80px 1fr 100px;
+    background-color: rgb(144, 93, 192);
+    height: 60px;
+    border: 2px solid black;;
+    justify-content: center;
+    align-items: center;
+    border: none;
+   
+}
+.div-button-12-f,
+.div-p-12-f,
+.div-input-12-f{
+    text-align: center;
+}
+#div-12-f p{
+    color: white;
+    font-family: Arial;
+    margin: 10px;
+}
+#div-12-f button{
+    background-color: rgb(144, 93, 192);
+    color: rgb(232, 229, 229);
+    border: 1px solid white;
+    padding: 5px 10px 5px 10px;
+
+}
+ 
+#div-12-f input{
+width: 90%;
+padding: 8px 0px 8px 0px;
+border-radius: 15px;
+border: none;
+
+}
+::placeholder{
+   padding-left: 20px;
+}
+
+  

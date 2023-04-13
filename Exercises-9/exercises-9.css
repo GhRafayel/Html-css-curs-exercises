@@ -1,0 +1,248 @@
+body{
+    padding: 200px 50px 200px 50px;
+}
+.div-1,
+.div-2{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin-bottom: 50px;
+}
+.div-2{
+    background-color:green;
+    border-radius: 50%;
+}
+.div-3{
+    width: 300px;
+    height: 100px;
+    border: 0.3px solid black;
+    padding-left: 20px;
+    margin-bottom: 50px;
+    
+}
+
+.div-4{
+    width: 380px;
+    height: 150px;
+    padding-left: 20px;
+    background-color:black;
+    padding-top: 10px;
+    margin-bottom: 50px;
+
+
+}
+.p-2{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.p-3{
+    color: silver;
+    font-size: 18px;
+}
+.img-1{
+    object-fit: cover;
+    object-position: top;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+   
+}
+.p-4{
+    display: inline-block;
+    color: slategray;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top:35px ;
+    vertical-align:top;
+}
+.button-3{
+  margin-left: 160px;
+    margin-top: 20px; ;
+    vertical-align: top;
+    background-color: rgba(62, 126, 204, 0.957) ;
+    color: white;
+    font-size: 20px;
+    padding: 15px 25px ;
+    border-radius:30px;
+    font-weight: bold;
+    border:none;
+}
+.div-5{
+    width: 600px;
+    margin-left: 20px;
+    box-shadow: 20px 20px 20px 20px rgb(244, 239, 239);
+    border-radius:10px;
+    padding: 20px 10px 20px 20px;
+    margin-bottom: 150px;
+}
+.div-6{
+    width: 300px;
+    height: 470px;
+    box-shadow: 10px 10px 10px 10px rgb(239, 238, 236);
+    padding: 20px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+
+}
+.img-2{
+    object-fit: cover;
+    object-position: top;
+    width: 300px;
+    height: 320px;
+}
+.p-5{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.p-6{
+    margin-top: 10px;
+    font-size: 20px;
+    color:slategray;
+}
+.button-4{
+    padding: 15px 40px 15px 40px;
+    background-color: rgb(66, 124, 196);
+    color:white ;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+}
+.div-7{
+    display: flex;
+    margin-bottom: 200px;
+}
+
+
+.div-child-1{
+    width: 300px;
+    height: 470px;
+    box-shadow: 10px 10px 10px 10px rgb(239, 238, 236);
+    padding: 20px;
+    margin-left: 50px;
+}
+.img-child-1{
+    width: 300px;
+    height: 320px;
+    object-fit: cover;
+    object-position: right;
+}
+.p-child-1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.p-child--1{
+    margin-top: 10px;
+    font-size: 20px;
+    color:slategray;
+}
+.button-child-1{
+    padding: 15px 40px 15px 40px;
+    background-color: rgb(66, 124, 196);
+    color:white ;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+}
+
+.div-child-2{
+    width: 300px;
+    height: 470px;
+    box-shadow: 10px 10px 10px 10px rgb(239, 238, 236);
+    padding: 20px;
+    margin-left: 50px;
+}
+.img-child-2{
+    width: 300px;
+    height: 320px;
+    object-fit: cover;
+    object-position: top;
+}
+.p-child-2{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.p-child--2{
+    margin-top: 10px;
+    font-size: 20px;
+    color:slategray;
+}
+.button-child-2{
+    padding: 15px 40px 15px 40px;
+    background-color: rgb(66, 124, 196);
+    color:white ;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+}
+
+.div-child-3{
+    width: 300px;
+    height: 470px;
+    box-shadow: 10px 10px 10px 10px rgb(239, 238, 236);
+    padding: 20px;
+    margin-left: 50px;
+}
+.img-child-3{
+    width: 300px;
+    height: 320px;
+    object-fit: cover;
+    object-position: top;
+}
+.p-child-3{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.p-child--3{
+    margin-top: 10px;
+    font-size: 20px;
+    color:slategray;
+}
+.button-child-3{
+    padding: 15px 40px 15px 40px;
+    background-color: rgb(66, 124, 196);
+    color:white ;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+}
+.div-8{
+    width: 100%;
+    border:3px solid black;
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+    border:none;
+
+}
+.input-googl{
+    border: none;
+    border-radius: 40px;
+    font-family: inherit;
+    padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    box-shadow: 0px 0px 0.9px  0px black;
+    margin-bottom: 50px;
+}
+.button-googl-1,.button-googl-2{
+    padding: 30px;
+    margin-left: 25px;
+    font-size: 20px;
+    font-family: Arial;
+    border: none;
+}

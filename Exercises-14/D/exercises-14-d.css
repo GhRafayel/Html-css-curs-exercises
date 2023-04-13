@@ -1,0 +1,47 @@
+   body{
+      font-family: Arial;
+      padding-bottom: 3000px  ;
+      background-color: rgb(207, 209, 211);
+   }
+   
+   #div-header-14b-1{
+      background-color: black;
+      color: white;
+      position: fixed;
+      z-index: 1;
+      top: 0px;
+      left: 0px;
+      right: 100px;
+      height: 90px;
+   }
+   #div-said-14b-2{
+      background-color: green;
+      position: fixed ;
+      top: 0px;
+      right: 0px;
+      width: 100px;
+      height: 100%;
+   }
+   #div-parent-14b-3{
+      width: 400px;
+      height: 150px ;
+      background-color: white;
+      border-radius: 8px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+   }
+   .p-14b-1{
+      margin: 20px 0px 10px 15px;
+      font-size: 30px;
+      font-weight: bold;
+   }
+   .p-14b-2{
+      margin: 10px 0px 10px 15px;
+      font-size: 20px;
+   }
+   .button-14b-1{
+      margin-left: 15px;
+      padding: 3px 6px 3px 6px;
+   }

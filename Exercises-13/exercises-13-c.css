@@ -1,0 +1,44 @@
+
+/*.----- 13.c----*/
+#div-parent-13-c{
+    padding: 5px;
+    min-width: 500px;
+    display: inline-block;
+    box-shadow: 0px 0px 10px 0px ;
+}
+#div-parent-13-c div{
+    padding: 3px;
+}
+.div-child-13-c{
+     display: flex;
+}
+.div-clock-13-c{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-13-c1{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+#div-parent-13-c p{
+    margin:0px;
+    font-family: arial;
+    color:slategray;
+}
+.p-13c-3{
+    padding-left: 110px;
+}
+.p-13c-4,
+.p-13c-5{
+ margin: 0px 0px 5px 6px;
+}
+.p-13c-2,
+.p-13c-4{
+    font-size: 20px;
+    color: black;
+}

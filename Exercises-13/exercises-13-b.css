@@ -1,0 +1,32 @@
+/*.----- 13.b----*/
+
+#div-13-b{
+    display: flex;
+    height: 90px;
+    box-shadow: 0px 0px 10px 0px ;
+}
+
+.div-child-13-b-1{
+    background-color: lightpink;
+    width: 100px;
+}
+.div-child-13-b-2{
+    display: flex;
+    background-color: lightblue;
+    flex: 1;
+    justify-content: space-between;
+    align-items:center;
+}
+.div-child-13-b-2-child{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.row-2{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+.row-1{
+    font-size: 20px;
+}
